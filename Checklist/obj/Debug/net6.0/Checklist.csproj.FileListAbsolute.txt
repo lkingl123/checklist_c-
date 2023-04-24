@@ -1,0 +1,15 @@
+C:\Users\lokek\source\repos\Checklist\Checklist\bin\Debug\net6.0\Checklist.exe
+C:\Users\lokek\source\repos\Checklist\Checklist\bin\Debug\net6.0\Checklist.deps.json
+C:\Users\lokek\source\repos\Checklist\Checklist\bin\Debug\net6.0\Checklist.runtimeconfig.json
+C:\Users\lokek\source\repos\Checklist\Checklist\bin\Debug\net6.0\Checklist.dll
+C:\Users\lokek\source\repos\Checklist\Checklist\bin\Debug\net6.0\Checklist.pdb
+C:\Users\lokek\source\repos\Checklist\Checklist\obj\Debug\net6.0\Checklist.csproj.AssemblyReference.cache
+C:\Users\lokek\source\repos\Checklist\Checklist\obj\Debug\net6.0\Checklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokek\source\repos\Checklist\Checklist\obj\Debug\net6.0\Checklist.AssemblyInfoInputs.cache
+C:\Users\lokek\source\repos\Checklist\Checklist\obj\Debug\net6.0\Checklist.AssemblyInfo.cs
+C:\Users\lokek\source\repos\Checklist\Checklist\obj\Debug\net6.0\Checklist.csproj.CoreCompileInputs.cache
+C:\Users\lokek\source\repos\Checklist\Checklist\obj\Debug\net6.0\Checklist.dll
+C:\Users\lokek\source\repos\Checklist\Checklist\obj\Debug\net6.0\refint\Checklist.dll
+C:\Users\lokek\source\repos\Checklist\Checklist\obj\Debug\net6.0\Checklist.pdb
+C:\Users\lokek\source\repos\Checklist\Checklist\obj\Debug\net6.0\Checklist.genruntimeconfig.cache
+C:\Users\lokek\source\repos\Checklist\Checklist\obj\Debug\net6.0\ref\Checklist.dll
